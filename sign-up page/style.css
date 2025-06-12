@@ -1,0 +1,133 @@
+a{
+    text-decoration: none;
+}
+.heading{
+    font-size: 90%;
+}
+
+.heading h1{
+    margin-left: 1.5%;
+}
+
+#log-in{
+    margin-left: 78%;
+    margin-top: -3.5%;
+    font-size: 160%;
+}
+
+.head p{
+    text-align: center;
+    margin-top: 4%;
+    font-size: 180%;
+}
+
+.head button{
+    height: 40px;
+    width: 230px;
+    border-radius: 20px;
+    border: 1px solid black;
+    font-size: 15px;
+}
+
+#google{
+    margin-left: 10px;
+    background-color: rgb(50, 126, 226);
+    color: white;
+}
+
+#apple{
+    margin-left: 440px;
+    margin-top: 5px;
+    background: none;
+}
+
+#apple:hover{
+    background-color: aliceblue;
+}
+
+#or{
+    margin-left: 670px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+input{
+    height: 35px;
+    width:480px;
+    border-radius: 10px;
+    border: 1px solid grey;
+}
+
+input:hover{
+    border: 2px solid black;
+}
+
+.container p{
+    font-size: 125%;
+}
+
+#name{
+    margin-left: 32.5%;
+    margin-top: -1%;
+}
+
+#name-1{
+    margin-left: 32.7%;
+}
+
+#email{
+    margin-left: 32.5%;
+    margin-top: -1%;
+}
+
+#email-1{
+    margin-left: 32.7%;
+}
+
+#password{
+    margin-left: 32.5%;
+    margin-top: -1%;
+}
+
+#password-1{
+    margin-left: 32.7%;
+}
+
+#checkbox{
+    height: 25px;
+    margin-top: 2%;
+    margin-left: 16%;
+}
+
+#check{
+    margin-left: 35.5%;
+    margin-top: -2%;
+    color: rgb(99, 97, 97);
+}
+
+#checkbox-1{
+    height: 25px;
+    margin-top: -5%;
+    margin-left: 16%;
+}   
+
+#check-1{
+    margin-left: 35.5%;
+    margin-top: -2%;
+    color: rgb(99, 97, 97);
+}
+
+.container button{
+    height: 39px;
+    width: 200px;
+    font-size: 15px;
+    background: blue;
+    color: white;
+    border-radius: 10px;
+    border: none;
+    margin-left: 43.2%;
+}
+
+.container button:hover{
+    background-color: rgb(34, 34, 168);
+}
